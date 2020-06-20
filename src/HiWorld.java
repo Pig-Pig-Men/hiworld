@@ -5,6 +5,10 @@ public class HiWorld {
         System.out.println("hi world zhujiabao  zlzlzlzlzk");
         System.out.println("hi world zhujiabao  zlzlzlzlzk");
         System.out.println("hi world zhujiabao  zlzlzlzlzk");
+        System.out.println("hi world zhujiabao  zlzlzlzlzk");
+        System.out.println("hi world zhujiabao  ");
+        System.out.println("hi world ");
+        System.out.println("hi");
 
     }
 }
